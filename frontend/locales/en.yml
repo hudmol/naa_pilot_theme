@@ -1,0 +1,35 @@
+en:
+  welcome:
+    heading: NAA Pilot ArchivesSpace
+    message: Your friendly archives management tool.
+    message_logged_in: "<p>This instance of ArchivesSpace has the following components:</p>
+                       <ul>
+                         <li>
+                           <strong>ArchivesSpace</strong><br/>
+                           The distribution was built from a
+                             <a href=\"https://github.com/hudmol/archivesspace/tree/plugin-hooks-and-enhancements\">
+                               branch
+                             </a>.
+                           This branch contains enhancements that the series system plugin depends on. It has been
+                           submitted as a pull request and so will hopefully not be required in future releases.
+                         </li>
+                         <li>
+                           <strong>Series system plugin</strong><br/>
+                           The series system plugin, originally developed as part of the QSA project is installed.
+                           It is deployed from a
+                             <a href=\"https://github.com/hudmol/series_system/tree/naa-pilot\">branch</a>.
+                           This branch contains some minor changes to remove QSA-specific content.
+                         </li>
+                         <li>
+                           <strong>Example validations plugin</strong><br/>
+                           A small
+                             <a href=\"https://github.com/hudmol/naa_pilot_validations\">plugin</a>
+                           that demonstrates how validations are implemented.
+                         </li>
+                         <li>
+                           <strong>Example theme plugin</strong></br/>
+                           A tiny
+                             <a href=\"https://github.com/hudmol/naa_pilot_theme\">plugin</a>
+                           that currently only includes this message.
+                         </li>
+                       </ul>"
